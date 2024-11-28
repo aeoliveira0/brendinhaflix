@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Kanit", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 0, 0):
+}
+
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    marging-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
